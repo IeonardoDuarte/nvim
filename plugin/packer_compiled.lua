@@ -84,6 +84,16 @@ _G.packer_plugins = {
     path = "C:\\Users\\goodl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
+  ["copilot.vim"] = {
+    loaded = true,
+    path = "C:\\Users\\goodl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\copilot.vim",
+    url = "https://github.com/github/copilot.vim"
+  },
+  ["editorconfig-vim"] = {
+    loaded = true,
+    path = "C:\\Users\\goodl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\editorconfig-vim",
+    url = "https://github.com/editorconfig/editorconfig-vim"
+  },
   harpoon = {
     loaded = true,
     path = "C:\\Users\\goodl\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\harpoon",
