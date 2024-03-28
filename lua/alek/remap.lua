@@ -50,3 +50,6 @@ vim.keymap.set("n", "<leader><leader>", function()
     vim.cmd("so")
 end)
 
+-- Remaps for new line in normal mode
+vim.keymap.set('n', '<CR>', 'o<Esc>')
+vim.keymap.set('n', '<BS>', 'O<Esc>')
